@@ -1,5 +1,5 @@
 # Dear Mojang,
-I'm sure "Eaglercraft" is a project that is on the top of your DMCA list. We (via the Eaglerbrothers™) are highly aware of Minecraft is about $20. 
+I'm sure "Eaglercraft" is a project that is on the top of your DMCA list. We (via the Eaglerbrothers™) are highly aware of Minecraft is about $30. 
 
 
 And the idea of Minecraft is for kids or grown-ups to have fun on your platform right? 
