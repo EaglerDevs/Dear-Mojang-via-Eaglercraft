@@ -20,3 +20,5 @@ Plus, why are you still DMCA'ing Eaglercraft clients? Eaglercraft client are jus
 
 The goal of Eaglercraft was never to pirate the game, it was just to port it to the browser, and the years of time and effort put into the port should not be killed off so violently.
 Thank you for reading <3
+
+- BtPlayzX
