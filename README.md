@@ -8,6 +8,7 @@ And the idea of Minecraft is for kids or grown-ups to have fun on your platform 
 But, money can't buy happiness.
 
 
+
 We put the labor into making Minecraft compatible with HTML and you violently threaten us to shut it down or get banned from Github.
 It is more fun when you can easily access Minecraft from a browser. Eaglercraft can run on school chromebooks and give you a decent framerate.
 I think your fanbase will be MUCH happier if they could access Minecraft that you didn't need to pay for and Minecraft would SKYROCKET in popularity.
